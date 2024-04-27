@@ -4,8 +4,11 @@
     This is the concept page of a videogame. In this game, the player takes the
     place of a Revenant Mariner, a dedicated explorer sailing through a deadly
     ocean to discover new lands. It's meant to be a sort of Uncharted Waters
-    clone, but without the manual tile-based navigation.
+    clone, but without the manual tile-based navigation. The game's mechanics
+    will be primarily focused on exploration and discovery, with a secondary
+    focus on combat and trading.
   </p>
+
   <h2>Aetherhaven</h2>
   <img
     src="/city-concept.webp"
@@ -33,7 +36,7 @@
     alt="An adventurous woman with a magical tattoo of a great sea beast"
   />
   <p>
-    You, the player. The player navigates this world with the aid of a
+    You, the player. The Revenant Mariner navigates this world with the aid of a
     Revenant's Mark, a powerful magical tattoo that transports the wearer back
     in time any time they die. Revenant Mariners chart and navigate The Lost
     Haze by repeatedly dying and returning to the past. When the tattoo is
@@ -49,10 +52,26 @@
   />
   <p>
     The Lost Haze is a vast and deadly ocean filled with monsters, storms, and
-    other dangers. The player must navigate this ocean to discover new lands and
-    treasures, but the ocean is filled with dangers that can easily kill the
-    player. The player must use their wits and their ship to survive the dangers
-    of The Lost Haze and make it to the other side.
+    other dangers. Though it may seem like an ordinary mist-filled ocean at
+    first, The Revenant Mariner must navigate this ocean to discover new lands
+    and treasures, but the ocean is filled with dangers that can easily kill the
+    Revenant Mariner. The Lost Haze is a gently sloping hyperbolic plane, with
+    islands of stability and safety scattered throughout the ocean. The ocean is
+    filled with monsters, storms, and other dangers that the Revenant Mariner
+    must navigate to reach their destination.
+  </p>
+
+  <h2>Gameplay</h2>
+  <p>
+    The Revenant Mariner navigates the ocean by charting a predetermined course
+    and seeing where it leads. In practice, this will essentially be implemented
+    as an idle game, where the Revenant Mariner sets a general direction, and
+    the game fast-forwards through a series of possible courses, telling the
+    Revenant what the tattoo shifted to and the number of deaths so far. If the
+    Revenant discovers a new land, they will be able to explore it. Over time,
+    as new locations are discovered and charted, the Revenant will be able to
+    upgrade their ship, hire more crew, purchase and commission new ships and
+    fleets, establish trade routes, and assist in the colonization of new lands.
   </p>
 </main>
 
