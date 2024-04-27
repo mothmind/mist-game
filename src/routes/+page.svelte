@@ -19,7 +19,9 @@
     city is a beacon of advanced magical technologies and towering multicolored
     skyscrapers. It pulses with the energy of arcing lightning and the hum of
     arcane innovations, attracting adventurers, scholars, and mystics from all
-    corners of the world.
+    corners of the world. It is a post-scarcity society, with high minded and
+    utopian ideals. The people of Aetherhaven are dedicated to the pursuit of
+    knowledge and discovery.
   </p>
 
   <h2>Drifter</h2>
@@ -53,25 +55,28 @@
   <p>
     The Lost Haze is a vast and deadly ocean filled with monsters, storms, and
     other dangers. Though it may seem like an ordinary mist-filled ocean at
-    first, The Revenant Mariner must navigate this ocean to discover new lands
-    and treasures, but the ocean is filled with dangers that can easily kill the
-    Revenant Mariner. The Lost Haze is a gently sloping hyperbolic plane, with
-    islands of stability and safety scattered throughout the ocean. The ocean is
-    filled with monsters, storms, and other dangers that the Revenant Mariner
-    must navigate to reach their destination.
+    first, The Lost Haze is modelled as a gently sloping hyperbolic plane, with
+    islands of stability and safety scattered throughout. Due to its hyperbolic
+    nature, slight deviations in course lead to massive changes in trajectory,
+    making conventional spatial mapping impossible. A Revenant Mariner may only
+    navigate The Haze by charting a course in advance and seeing where it leads.
   </p>
 
   <h2>Gameplay</h2>
   <p>
-    The Revenant Mariner navigates the ocean by charting a predetermined course
-    and seeing where it leads. In practice, this will essentially be implemented
-    as an idle game, where the Revenant Mariner sets a general direction, and
-    the game fast-forwards through a series of possible courses, telling the
-    Revenant what the tattoo shifted to and the number of deaths so far. If the
-    Revenant discovers a new land, they will be able to explore it. Over time,
-    as new locations are discovered and charted, the Revenant will be able to
-    upgrade their ship, hire more crew, purchase and commission new ships and
-    fleets, establish trade routes, and assist in the colonization of new lands.
+    The Revenant Mariner navigates the ocean by charting predetermined courses
+    and seeing where they lead. In practice, this will essentially be
+    implemented as an idle game, where the Revenant Mariner sets a general
+    direction, and the game fast-forwards through a series of possible
+    algorithmically generated courses with random seeds, telling the Revenant
+    what the tattoo shifted to and the number of deaths so far each time. Over
+    multiple cycles, the different courses will be plotted on a scatter plot,
+    and over time patterns will emerge that allow the player to get a better
+    picture of what lies in the Lost Haze, and how far they are from discovering
+    a new land. If the Revenant discovers a new land, they will be able to
+    explore it. Over time, as new locations are discovered and charted, the
+    Revenant will be able to upgrade their ship, hire more crew, purchase and
+    commission new ships and fleets, and establish trade routes.
   </p>
 </main>
 
